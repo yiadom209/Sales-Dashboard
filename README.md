@@ -26,4 +26,8 @@ This project presents a professional sales dashboard built in Microsoft Excel fo
 ---
 
 
+Below is the link to the Excel file containing the dashboard: https://docs.google.com/spreadsheets/d/1T-bwyPSON6YjonQMkozfnZOI7Vq7pPVC/edit?usp=sharing&ouid=110375554520410704042&rtpof=true&sd=true 
+
+
+
 
