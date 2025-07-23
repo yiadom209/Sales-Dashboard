@@ -1,6 +1,6 @@
 # Motorcycle Shop Sales Dashboard (Excel)
 
-This project presents a professional sales dashboard built in Microsoft Excel for a motorcycle retail business. The dashboard enables stakeholders to track performance, understand customer trends, and make data-driven decisions by visualizing key sales metrics across different countries and time periods.
+This project presents a professional sales dashboard that I built in Microsoft Excel for a motorcycle retail business. I took the dataset from Kaggle. The dashboard enables stakeholders to track performance, understand customer trends, and make data-driven decisions by visualizing key sales metrics across different countries and time periods.
 
 
 ## Key Features
